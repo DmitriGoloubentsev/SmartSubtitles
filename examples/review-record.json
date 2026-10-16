@@ -1,0 +1,11 @@
+{
+  "example_only": true,
+  "source_id": 1,
+  "reference": "Could you pass the folder?",
+  "asr": "Could you pass the folder?",
+  "manual_review": false,
+  "decision": "pending",
+  "caption_ids": [],
+  "reason_tags": [],
+  "note": "Synthetic schema example. Set review status only after reviewing the actual cue."
+}

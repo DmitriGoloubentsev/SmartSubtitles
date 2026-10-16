@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "example_only": true,
+  "items": {
+    "person:example": {
+      "canonical": "Example Person",
+      "aliases": ["Example"],
+      "kind": "spoken_name",
+      "first_occurrence": {"episode": "S01E01", "source_id": 1},
+      "meaning": "Fictional placeholder for this schema; not a media character.",
+      "episodes": {
+        "S01E01": {"introduction_card_ids": [], "reminder_card_ids": [], "audibility_exceptions": []}
+      },
+      "research_sources": []
+    }
+  }
+}

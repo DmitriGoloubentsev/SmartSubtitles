@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "example_only": true,
+  "source_language": "en",
+  "target_language": "pt",
+  "target_region": "PT",
+  "learner_level": "A1-A2",
+  "entries": [
+    {
+      "id": "sample001",
+      "speaker": "your-own-reference-speaker",
+      "source_ids": [1],
+      "source_start": 10.0,
+      "source_end": 11.5,
+      "safe_end": 13.0,
+      "source_text": "Do you need help?",
+      "target_text": "Precisas de ajuda?",
+      "english_meaning": "Do you need help?",
+      "rationale": "Synthetic example of a useful standalone request.",
+      "approved": false,
+      "reference_a": null,
+      "reference_d": null,
+      "final_take": null
+    }
+  ]
+}

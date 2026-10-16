@@ -1,0 +1,15 @@
+.venv*/
+.cache/
+.tools/
+__pycache__/
+*.pyc
+runs/
+media/
+artifacts/
+*.mkv
+*.mp4
+*.wav
+*.flac
+*.gguf
+.env
+.env.*
